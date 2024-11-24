@@ -1,4 +1,3 @@
-html,
 body {
   padding: 0;
   margin: 0;
@@ -11,7 +10,7 @@ body {
   padding: 0 10em;
   margin: 0;
 }
-
+ /* can't override parent element with flex :skull: */
 .header-nav,
 .login-btn {
   float: right;
