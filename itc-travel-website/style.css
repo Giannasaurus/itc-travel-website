@@ -1,0 +1,79 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  height: 5em;
+  padding: 0 10em;
+  margin: 0;
+}
+
+.header-nav,
+.login-btn {
+  float: right;
+}
+
+.hero-section {
+  background-color: #f1f3f4;
+  border: 1px solid #d3d3d3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 20em;
+}
+
+.sections-wrapper {
+  margin: 5em 10em;
+}
+
+/*ROOM TYPE*/
+.room-type-wrapper {
+}
+
+.room-type-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.room-type-card {
+  background-color: #f1f3f4;
+  border: 1px solid #d3d3d3;
+  border-radius: 8px;
+  width: 20em;
+  height: 20em;
+  margin: 1em;
+}
+
+.room-type-img {
+  background-color: #a9a9a9;
+  /*
+  width: ;
+  height: ;
+  padding: ; */
+}
+
+/*AMENITES & SERVICES (AMEN SER!!!! :pray:)*/
+.amen-ser-wrapper {
+}
+
+.amen-ser-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.amen-ser-card {
+  background-color: #f1f3f4;
+  border: 1px solid #d3d3d3;
+  border-radius: 8px;
+  width: 20em;
+  height: 20em;
+  margin: 1em;
+}
+
+.amer-ser-img {
+}
